@@ -1,0 +1,6 @@
+Order deny,allow
+Deny from all
+
+<Files "service.php">
+    Allow from all
+</Files>
